@@ -8,10 +8,10 @@ Colour was choosen for working with a dark theme on a matte screen, in particula
 Comments are dark on purpose, still readable but normally they don't create visual noise.
 
 
-Example full UI:
+Example full UI (old JS code):
 ![fullscreen](examplefull.png)
 
-Example of random EcmaScript 262 3rd edition:
+Example of JavaScript:
 ![js](examplejs.png)
 
 Example of rust:
