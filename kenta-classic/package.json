@@ -1,0 +1,25 @@
+{
+  "name": "kenta-classic",
+  "displayName": "kenta.classic",
+  "description": "Code focused theme I originally made for VS2003/VS2005 ported to VSCode via the `Theme Generator` extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "publisher": "kentaromiura",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/kentaromiura/vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "kenta.classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kenta.classic-color-theme.json"
+      }
+    ]
+  }
+}

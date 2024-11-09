@@ -1,0 +1,25 @@
+{
+  "name": "kenta-inverted",
+  "displayName": "kenta.inverted",
+  "description": "kenta classic theme with inverted string and type colors for type heavy languages",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "publisher": "kentaromiura",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/kentaromiura/vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "kenta.inverted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kenta.inverted-color-theme.json"
+      }
+    ]
+  }
+}
